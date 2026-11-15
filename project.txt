@@ -4,5 +4,11 @@ This change was added via a Pull Request.
 This pull request was updated with a second commit.
 
 Contribution notes
-Create a branch and submit your changes.
-Check everything before merging.
+1. Create a separate branch for your changes.
+2. Edit the file and commit your changes with a clear message.
+3. Push your branch to GitHub and open a pull request targeting main.
+
+Before merging:
+- Review the diff to confirm that only intended changes are included.
+- Confirm that the existing project content is preserved.
+- Address reviewer feedback and obtain approval.
